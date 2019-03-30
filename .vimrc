@@ -14,5 +14,6 @@ set ruler
 set wildmenu
 set cursorline
 set noerrorbells
+set visualbell
 set confirm
 set history=1000
