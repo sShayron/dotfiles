@@ -17,5 +17,7 @@
     "editor.cursorWidth": 3,
     "editor.fontFamily": "'monospace', monospace,'Droid Sans Mono', 'Droid Sans Fallback'",
     "editor.minimap.showSlider": "always",
-    "files.trimTrailingWhitespace": true
+    "files.trimTrailingWhitespace": true,
+    "workbench.editor.tabSizing": "shrink",
+    "window.title": "${dirty}${activeEditorLong}${separator}${rootName}"
 }
