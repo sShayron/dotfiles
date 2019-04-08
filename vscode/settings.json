@@ -19,5 +19,6 @@
     "editor.minimap.showSlider": "always",
     "files.trimTrailingWhitespace": true,
     "workbench.editor.tabSizing": "shrink",
-    "window.title": "${dirty}${activeEditorLong}${separator}${rootName}"
+    "window.title": "${dirty}${activeEditorLong}${separator}${rootName}",
+    "typescript.preferences.quoteStyle": "single"
 }
