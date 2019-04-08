@@ -12,5 +12,10 @@
     "javascript.preferences.quoteStyle": "single",
     "html.autoClosingTags": true,
     "html.format.enable": true,
-    "html.suggest.html5": true
+    "html.suggest.html5": true,
+    "editor.cursorBlinking": "expand",
+    "editor.cursorWidth": 3,
+    "editor.fontFamily": "'monospace', monospace,'Droid Sans Mono', 'Droid Sans Fallback'",
+    "editor.minimap.showSlider": "always",
+    "files.trimTrailingWhitespace": true
 }
