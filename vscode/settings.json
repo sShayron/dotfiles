@@ -7,5 +7,10 @@
     "window.titleBarStyle": "custom",
     "editor.formatOnPaste": true,
     "editor.formatOnSave": false,
-    "editor.formatOnType": true
+    "editor.formatOnType": true,
+    "javascript.updateImportsOnFileMove.enabled": "always",
+    "javascript.preferences.quoteStyle": "single",
+    "html.autoClosingTags": true,
+    "html.format.enable": true,
+    "html.suggest.html5": true
 }
