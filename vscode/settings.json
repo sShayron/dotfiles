@@ -20,5 +20,6 @@
     "files.trimTrailingWhitespace": true,
     "workbench.editor.tabSizing": "shrink",
     "window.title": "${dirty}${activeEditorLong}${separator}${rootName}",
-    "typescript.preferences.quoteStyle": "single"
+    "typescript.preferences.quoteStyle": "single",   ,
+    "prettier.singleQuote": true
 }
