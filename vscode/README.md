@@ -6,16 +6,17 @@ Run “Install 'code' command in PATH” from the command palette (View → Comm
 
 ## Installed plugins
 ```
-ext install hookyqr.beautify
-ext install ms-vscode.csharp
-ext install nimda.deepdark-material
-ext install peterjausovec.vscode-docker
-ext install eamodio.gitlens
-ext install xabikos.javascriptsnippets
-ext install mdickin.markdown-shortcuts
-ext install christian-kohler.npm-intellisense
-ext install mohsen1.prettify-json
-ext install alefragnani.project-manager
-ext install ms-vscode.vscode-typescript-tslint-plugin
-ext installoctref.vetur
+sdras.vue-vscode-extensionpack
+formulahendry.auto-rename-tag
+hookyqr.beautify
+nimda.deepdark-material
+ms-vscode.csharp
+peterjausovec.vscode-docker
+dbaeumer.vscode-eslint
+eamodio.gitlens
+ritwickdey.liveserver
+mdickin.markdown-shortcuts
+mohsen1.prettify-json
+alefragnani.project-manager
+ms-vscode.vscode-typescript-tslint-plugin
 ```
