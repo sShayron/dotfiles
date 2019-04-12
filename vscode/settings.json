@@ -22,8 +22,12 @@
   "window.title": "${dirty}${activeEditorLong}${separator}${rootName}",
   "typescript.preferences.quoteStyle": "single",
   "prettier.singleQuote": true,
+  "editor.wordWrapColumn": 80,
   "[csharp]": {
     "editor.tabSize": 4,
     "editor.defaultFormatter": "ms-vscode.csharp"
+  },
+  "[javascript]": {
+    "editor.defaultFormatter": "esbenp.prettier-vscode"
   }
 }
