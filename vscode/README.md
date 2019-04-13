@@ -6,17 +6,19 @@ Run “Install 'code' command in PATH” from the command palette (View → Comm
 
 ## Installed plugins
 ```
+alefragnani.project-manager
+ms-vscode.csharp
+jmrog.vscode-nuget-package-manager
+jchannon.csharpextensions
 sdras.vue-vscode-extensionpack
 formulahendry.auto-rename-tag
 hookyqr.beautify
 nimda.deepdark-material
-ms-vscode.csharp
 peterjausovec.vscode-docker
 dbaeumer.vscode-eslint
 eamodio.gitlens
 ritwickdey.liveserver
 mdickin.markdown-shortcuts
 mohsen1.prettify-json
-alefragnani.project-manager
 ms-vscode.vscode-typescript-tslint-plugin
 ```
