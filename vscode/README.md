@@ -6,8 +6,8 @@ Run “Install 'code' command in PATH” from the command palette (View → Comm
 
 ## Installed plugins
 ```
+vscodevim.vim
 alefragnani.project-manager
-ms-vscode.csharp
 jmrog.vscode-nuget-package-manager
 jchannon.csharpextensions
 sdras.vue-vscode-extensionpack
