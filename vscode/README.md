@@ -13,7 +13,6 @@ jchannon.csharpextensions
 formulahendry.auto-rename-tag
 hookyqr.beautify
 nimda.deepdark-material
-peterjausovec.vscode-docker
 dbaeumer.vscode-eslint
 eamodio.gitlens
 ritwickdey.liveserver
