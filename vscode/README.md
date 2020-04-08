@@ -21,7 +21,6 @@ mohsen1.prettify-json
 ms-vscode.vscode-typescript-tslint-plugin
 coenraads.bracket-pair-colorizer
 ms-dotnettools.csharp
-jchannon.csharpextensions
 tombonnike.vscode-status-bar-format-toggle
 ms-kubernetes-tools.vscode-kubernetes-tools
 christian-kohler.npm-intellisense
